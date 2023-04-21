@@ -2,8 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - Prints the last digit of random generated numbers and
- * numbers greater than 5,less than 6 , or 0
+ * main - Prints the last digit a number
  *
  * Return: 0
 */
